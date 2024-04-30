@@ -1,2 +1,2 @@
 # WiFi.h_For_Web
-To used &lt;WiFi.h> create the Web server by port 80 with ESP32S
+To used &lt;WiFi.h> create the Web server by port 80 with ESP32-S
